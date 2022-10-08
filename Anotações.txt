@@ -1,0 +1,9 @@
+Links
+https://www.markdownguide.org/basic-syntax/
+https://git-scm.com/
+
+Comandos
+git push - fazer upload
+git pull - fazer download
+git add * - adicionar tudo ao commit
+git commit  -m"" - commitar o arquivo com informações sobre as alteraçoes 

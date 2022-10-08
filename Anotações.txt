@@ -1,6 +1,7 @@
 Links
 https://www.markdownguide.org/basic-syntax/
 https://git-scm.com/
+https://git-school.github.io/visualizing-git/
 
 Comandos
 git push - fazer upload
